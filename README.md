@@ -22,7 +22,9 @@ npm start
 
 ### Funcionalidades del CRUD con MongoDB y NodeJs
 
+```bash
 ☑ Crear nuevas tareas
 ☑ Leer tareas existentes
 ☑ Actualizar tareas
 ☒ Eliminar tareas
+```
