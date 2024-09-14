@@ -1,8 +1,9 @@
 # CRUD basico con Nodejs, Express y Mongodb para comprender las bases de datos NoSQL
 
 ![](docs/ScreenshotMongodb2.png)
+![](docs/ScreenshotMongodb.png)
 
-# Este proyecto fue desarrollado con el propósito de aprender y aplicar el uso de bases de datos NoSQL, específicamente MongoDB, en un entorno de desarrollo web moderno.
+### Este proyecto fue desarrollado con el propósito de aprender y aplicar el uso de bases de datos NoSQL, específicamente MongoDB, en un entorno de desarrollo web moderno.
 
 ### Instalacion (Manual)
 
