@@ -13,7 +13,7 @@
 
 ```bash
 git clone https://github.com/EdD4rk/CRUD-MongoDB-NodeJs.git
-cd express-mongodb-crud
+cd CRUD-MongoDB-NodeJs
 npm install
 npm run build
 npm start
